@@ -20,6 +20,6 @@ steps:
     location: 'Japan East'
     templateLocation: 'URL of the file'
     csmFileLink: 'https://raw.githubusercontent.com/lili-luo-dl/TryARMTemplate-repo/main/CreateWebApp/azuredeploy.json'
-    overrideParameters: '-projectName TryARMTemplate'
+    overrideParameters: '-projectName TryARMTemp'
     deploymentMode: 'Incremental'
     deploymentName: 'DeployPipelineTemplate'
